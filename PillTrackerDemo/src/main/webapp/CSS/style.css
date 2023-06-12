@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+
+
+header a {
+	padding: 10px;
+}
+
+body {
+	display: flex;
+	position: relative;
+	align-items: center;
+	margin: 50px;
+	border: 3px solid red;
+	justify-content: center;
+}
+
+/* container ul {
+	display:flex;
+	align-items: center;
+	margin: 50px;
+} */
+/* 
+btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+
+.btn-google {
+  color: white !important;
+  background-color: #ea4335;
+}
+
+.btn-facebook {
+  color: white !important;
+  background-color: #3b5998;
+} */
